@@ -34,5 +34,5 @@ ML model to forecast hourly bike rental demand using weather and seasonal data.
 ---
 
 ### 🌟 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/chaitanyasaikunapareddy)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/chaitanyasaik/)  
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/ChaitanyasaiKunapareddy)
